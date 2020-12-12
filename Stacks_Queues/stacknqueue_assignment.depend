@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1607782706 source:e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"stacks.c"
+	"appconst.h"
+	"stack_using_queue.h"
+	"stack_using_queue.c"
+	"stack_and_queue.h"
+	"stack_and_queue.c"
+	<assert.h>
+
+1607780574 e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\stack.h
+	<stdint.h>
+	"appconst.h"
+
+1607778997 e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\appconst.h
+
+1607780651 e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\stacks.c
+	<stdint.h>
+	<string.h>
+	<assert.h>
+	"stack.h"
+	"appconst.h"
+
+1607780755 e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\stack_using_queue.h
+	<stdint.h>
+	"appconst.h"
+
+1607780727 e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\stack_using_queue.c
+	<assert.h>
+	<stdint.h>
+	"stack_using_queue.h"
+	"appconst.h"
+
+1607782678 e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\stack_and_queue.h
+	"appconst.h"
+	<stdint.h>
+
+1607782855 e:\madhuri\ads lab\stacknqueueassignment\stacknqueue_assignment\stack_and_queue.c
+	"stack_and_queue.h"
+	<assert.h>
+	<stdint.h>
+
